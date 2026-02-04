@@ -1,4 +1,8 @@
-https://image2url.com/r2/default/gifs/1770181096876-53085430-2432-4df8-9503-c462eeb3da48.gif
+<div align="center">
+  <img height="200" src="https://image2url.com/r2/default/gifs/1770181096876-53085430-2432-4df8-9503-c462eeb3da48.gif"  />
+</div>
+
+###
 
 # 💫 About Me:
 ​I am a Data Analyst with a background in Full-Stack Development and UI/UX Design. <br>I specialize in bridging the gap between complex data sets and user-friendly insights.<br>​My technical toolkit includes JavaScript, Node.js, which I use to extract and structure data efficiently. <br>Currently, I’m leveraging these skills to build Phoenix, an AI-powered lifestyle manager. <br>I’m passionate about turning raw numbers into clear, actionable stories.
