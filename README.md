@@ -13,7 +13,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek20044/Abhishek20044/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhishek20044/Abhishek20044/output/pacman-contribution-graph.svg">
 </picture>
-###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
